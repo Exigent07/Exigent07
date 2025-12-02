@@ -25,7 +25,7 @@ My focus is on **Web Security**, **CTFs**, and **full-stack development**.
 ---
 
 ## Highlights
-- Reported multiple security issues across major platforms  
+- Reported multiple security issues across major platforms (Gemini, Grok, OpenAI...)  
 - Worked on intrusion detection models and research projects  
 - Active contributor in CTFs, challenges, and security communities
 

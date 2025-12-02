@@ -15,15 +15,7 @@ My focus is on **Web Security**, **CTFs**, and **full-stack development**.
 - **Security Research** — Web exploitation, bug hunting, and offensive security  
 - **CTF Player** — Playing with *teambi0s*, India's leading CTF team  
 - **Full-Stack Development** — Next.js, React, Flask, Node.js  
-- **AI x Security Experiments** — Using machine learning for analysis and detection  
-- **Cybersecurity Education Projects** — Apps, games, and interactive learning tools  
-
----
-
-## Learning & Interests
-- Deep-dive Web Exploitation  
-- Client-side attacks (SVG, CSS-based leaks, browser oddities)  
-- Building secure systems by understanding how they break  
+- **AI x Security Experiments** — Using machine learning for analysis and detection
 
 ---
 

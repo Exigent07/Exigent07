@@ -16,6 +16,6 @@ My focus is on **Web Security**, **bug hunting**, and **full-stack development**
 ---
 
 ## Highlights
-- Reported and found vulnerabilities in **Google**, **OpenAI**, **xAI**, and other platforms  
+- Found and reported vulnerabilities in **Google**, **OpenAI**, **xAI**, and other platforms  
 
 ---

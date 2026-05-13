@@ -25,6 +25,7 @@ Aravindh P. BTech in cyber security, CTFs with **team bi0s**. I hate doing secur
 
 <div align="center">
 
+<a href="https://www.exigent07.com"><img alt="Website" src="https://img.shields.io/badge/Website-0D1117?style=flat-square&logo=safari&logoColor=F0F6FC" /></a>
 <a href="https://github.com/Exigent07"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=F0F6FC" /></a>
 <a href="https://x.com/Exigent07"><img alt="X" src="https://img.shields.io/badge/X-0D1117?style=flat-square&logo=x&logoColor=F0F6FC" /></a>
 <a href="https://linkedin.com/in/exigent07"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=F0F6FC" /></a>

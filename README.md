@@ -16,7 +16,7 @@
 
 <div align="center">
 
-Aravindh P. BTech in cyber security, CTFs with **team bi0s**. I hate doing security but I do it anyways — money equals happiness (so far **$29,287** times happier). When that gets old, I write web code ([website???](https://www.exigent07.com)).
+Aravindh P. BTech in cyber security, CTFs with **team bi0s**. I hate doing security but I do it anyways — money equals happiness (so far **$29,287** times happier). When that gets old, I write web code.
 
 <sub>focus · web security</sub>
 
